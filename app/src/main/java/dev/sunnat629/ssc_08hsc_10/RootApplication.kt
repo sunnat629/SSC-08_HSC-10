@@ -14,6 +14,4 @@ class RootApplication: Application() {
             // todo initiate the Firebase or Fabric crashlytics.
         }
     }
-
-    companion object
 }
