@@ -2,6 +2,7 @@ package dev.sunnat629.ssc_08hsc_10.models.entities
 
 /**
  * Person class is responsible for all the information of the user.
+ *
  * @param preFixName contains the user's pre-fix name. Example: Dr., Barrister, Egr. etc.
  * @param firstName contains the user's first name.
  * @param lastName contains the user's last name.
